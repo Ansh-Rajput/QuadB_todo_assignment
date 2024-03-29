@@ -1,8 +1,24 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Prerequisites
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Before you begin, ensure you have met the following requirements:
+- Node.js installed on your local machine.
+- PNPM package manager installed (`npm install -g pnpm`).
+
+## Getting Started
+
+To get a local copy up and running, follow these simple steps:
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/Ansh-Rajput/QuadB_todo_assignment.git
+2. Install dependencies using PNPM:
+
+   ```bash
+   pnpm install
+3. Start the development server:
+
+   ```bash
+   pnpm dev
